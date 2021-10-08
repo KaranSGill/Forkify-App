@@ -127,3 +127,5 @@ const clearBookmarks = function() {
 };
 
 // clearBookmarks();
+
+console.log(`Hello world`);

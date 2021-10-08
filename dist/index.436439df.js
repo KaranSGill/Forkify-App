@@ -657,7 +657,9 @@ init();
 console.log(state.bookmark);
 const clearBookmarks = function() {
     localStorage.clear('bookmark');
-}; // clearBookmarks();
+};
+// clearBookmarks();
+console.log(`Hello world`);
 
 },{"@parcel/transformer-js/src/esmodule-helpers.js":"JacNc","./config.js":"beA2m","./helpers.js":"9l3Yy","regenerator-runtime":"cH8Iq"}],"JacNc":[function(require,module,exports) {
 exports.interopDefault = function(a) {
