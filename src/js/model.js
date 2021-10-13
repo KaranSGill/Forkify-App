@@ -127,4 +127,4 @@ const clearBookmarks = function() {
 };
 
 // clearBookmarks();
-console.log('Changes');
+
