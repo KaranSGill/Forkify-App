@@ -493,7 +493,7 @@ const controlRecipes = async function() {
 };
 const controlSearchResults = async function() {
     try {
-        _recipeViewJsDefault.default.renderSpinner();
+        _resultsViewJsDefault.default.renderSpinner();
         //1: Get search query
         const query = _searchViewJsDefault.default.getQuery();
         if (!query) return;
